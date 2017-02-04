@@ -1,0 +1,13 @@
+New log file opened at Sat Feb 04 23:46:08 JST 2017 by 5659@oushindou-no-MacBook-Air.local
+Taking next connection to: 53363
+New client attempting to connect on port: 53364-53363
+  Address = /192.168.0.4:53363
+This client on port 53364 has uuid c371bf22-04a3-46de-9db1-25f976c1a0a7 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-c371bf22-04a3-46de-9db1-25f976c1a0a7
+Taking next connection to: 53363
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 5659@oushindou-no-MacBook-Air.local logs at Sat Feb 04 23:49:22 JST 2017, goodbye.
